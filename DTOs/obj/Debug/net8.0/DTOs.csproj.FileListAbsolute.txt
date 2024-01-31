@@ -1,0 +1,11 @@
+D:\Code\BugSnagUsing\DTOs\bin\Debug\net8.0\DTOs.deps.json
+D:\Code\BugSnagUsing\DTOs\bin\Debug\net8.0\DTOs.dll
+D:\Code\BugSnagUsing\DTOs\bin\Debug\net8.0\DTOs.pdb
+D:\Code\BugSnagUsing\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\BugSnagUsing\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+D:\Code\BugSnagUsing\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+D:\Code\BugSnagUsing\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+D:\Code\BugSnagUsing\DTOs\obj\Debug\net8.0\DTOs.dll
+D:\Code\BugSnagUsing\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+D:\Code\BugSnagUsing\DTOs\obj\Debug\net8.0\DTOs.pdb
+D:\Code\BugSnagUsing\DTOs\obj\Debug\net8.0\ref\DTOs.dll

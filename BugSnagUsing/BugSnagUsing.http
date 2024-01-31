@@ -1,0 +1,6 @@
+@BugSnagUsing_HostAddress = http://localhost:5077
+
+GET {{BugSnagUsing_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
